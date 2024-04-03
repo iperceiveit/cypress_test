@@ -1,0 +1,19 @@
+{
+  "name": "sridharsekar-gm-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:UIToolsQA": "npx cypress run --config baseUrl=https://demoqa.com/ --spec cypress/e2e/ToolsQA",
+    "test:API": "npx cypress run --config baseUrl=https://demoqa.com/ --spec cypress/e2e/API"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress": "^12.13.0",
+    "faker": "^6.6.6",
+    "typescript": "^5.0.4"
+  },
+  "description": ""
+}
