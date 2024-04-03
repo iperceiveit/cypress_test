@@ -1,4 +1,4 @@
-# Gerimedica Assignment-Cypress Automation
+# Cypress Automation
 
 This repository contains sample code and instructions for working with Cypress using TypeScript.
 
